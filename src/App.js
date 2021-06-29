@@ -15,7 +15,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Dafuq is this
+                    Dafuq is this shit
                 </a>
             </header>
         </div>
